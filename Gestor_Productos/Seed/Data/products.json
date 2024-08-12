@@ -1,0 +1,82 @@
+[
+  {
+    "Id": "a1b2c3d4-e5f6-7g8h-9i10-j11k12l13m14",
+    "Name": "Product 1",
+    "Description": "Description for Product 1",
+    "Price": 100,
+    "Stock": 50,
+    "CategoryId": "a7f6c8e0-4d72-4b4e-b8db-b3ef93a9b16e"
+  },
+  {
+    "Id": "b2c3d4e5-f6g7-8h9i-10j1-k12l13m14n15",
+    "Name": "Product 2",
+    "Description": "Description for Product 2",
+    "Price": 200,
+    "Stock": 30,
+    "CategoryId": "b1c4d9e1-6e53-4b4f-9c1b-7b82e87f9c27"
+  },
+  {
+    "Id": "c3d4e5f6-g7h8-9i10-j11k-12l13m14n15",
+    "Name": "Product 3",
+    "Description": "Description for Product 3",
+    "Price": 300,
+    "Stock": 20,
+    "CategoryId": "c2d5e3f2-7f64-4c5d-bab3-d9a2a8b0a3c4"
+  },
+  {
+    "Id": "d4e5f6g7-h8i9-10j1-k12l-13m14n15o16",
+    "Name": "Product 4",
+    "Description": "Description for Product 4",
+    "Price": 150,
+    "Stock": 40,
+    "CategoryId": "d3e6f4g3-8e75-4d6e-bc5d-ea3b9a1b4c5d"
+  },
+  {
+    "Id": "e5f6g7h8-i9j0-11k1-l12m-13n14o15p16",
+    "Name": "Product 5",
+    "Description": "Description for Product 5",
+    "Price": 250,
+    "Stock": 25,
+    "CategoryId": "e4f7g5h4-9f86-4e7f-bd6e-fb4c0a2d5e6f"
+  },
+  {
+    "Id": "f6g7h8i9-j0k1-12l1-m23n-14o15p16q17",
+    "Name": "Product 6",
+    "Description": "Description for Product 6",
+    "Price": 350,
+    "Stock": 15,
+    "CategoryId": "f5g8h6i5-a0g7-4f8e-cd7f-gc5d1b2e6f7g"
+  },
+  {
+    "Id": "g7h8i9j0-k1l2-23m1-n14o-15p16q17r18",
+    "Name": "Product 7",
+    "Description": "Description for Product 7",
+    "Price": 400,
+    "Stock": 10,
+    "CategoryId": "g6h9i7j6-b1h8-4g9f-de8g-hd6e2c3f7g8h"
+  },
+  {
+    "Id": "h8i9j0k1-l2m3-34n1-o15p-16q17r18s19",
+    "Name": "Product 8",
+    "Description": "Description for Product 8",
+    "Price": 500,
+    "Stock": 5,
+    "CategoryId": "h7i0j8k7-c2i9-5h0g-ef9h-ie7f3d4g8h9i"
+  },
+  {
+    "Id": "i9j0k1l2-m3n4-45o1-p16q-17r18s19t20",
+    "Name": "Product 9",
+    "Description": "Description for Product 9",
+    "Price": 600,
+    "Stock": 8,
+    "CategoryId": "h7i0j8k7-c2i9-5h0g-ef9h-ie7f3d4g8h9i"
+  },
+  {
+    "Id": "j0k1l2m3-n4o5-56p1-q17r-18s19t20u21",
+    "Name": "Product 10",
+    "Description": "Description for Product 10",
+    "Price": 700,
+    "Stock": 12,
+    "CategoryId": "h7i0j8k7-c2i9-5h0g-ef9h-ie7f3d4g8h9i"
+  }
+]

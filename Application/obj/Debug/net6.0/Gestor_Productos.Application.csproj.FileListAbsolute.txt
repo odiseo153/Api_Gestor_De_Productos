@@ -1,0 +1,17 @@
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\obj\Debug\net6.0\Gestor_Productos.Application.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\obj\Debug\net6.0\Gestor_Productos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\obj\Debug\net6.0\Gestor_Productos.Application.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\obj\Debug\net6.0\Gestor_Productos.Application.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\obj\Debug\net6.0\Gestor_Productos.Application.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\bin\Debug\net6.0\Gestor_Productos.Application.deps.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\bin\Debug\net6.0\Gestor_Productos.Application.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\bin\Debug\net6.0\Gestor_Productos.Application.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\bin\Debug\net6.0\Gestor_Productos.Domain.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\bin\Debug\net6.0\Gestor_Productos.Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\bin\Debug\net6.0\Gestor_Productos.Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\bin\Debug\net6.0\Gestor_Productos.Domain.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\obj\Debug\net6.0\Gestor_P.3C08EF7A.Up2Date
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\obj\Debug\net6.0\Gestor_Productos.Application.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\obj\Debug\net6.0\refint\Gestor_Productos.Application.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\obj\Debug\net6.0\Gestor_Productos.Application.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Application\obj\Debug\net6.0\ref\Gestor_Productos.Application.dll

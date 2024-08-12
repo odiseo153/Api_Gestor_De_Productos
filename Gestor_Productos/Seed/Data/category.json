@@ -1,0 +1,34 @@
+﻿[
+  {
+    "Id": "a7f6c8e0-4d72-4b4e-b8db-b3ef93a9b16e",
+    "Name": "Electrónica"
+  },
+  {
+    "Id": "b1c4d9e1-6e53-4b4f-9c1b-7b82e87f9c27",
+    "Name": "Ropa y Accesorios"
+  },
+  {
+    "Id": "c2d5e3f2-7f64-4c5d-bab3-d9a2a8b0a3c4",
+    "Name": "Hogar y Cocina"
+  },
+  {
+    "Id": "d3e6f4g3-8e75-4d6e-bc5d-ea3b9a1b4c5d",
+    "Name": "Salud y Belleza"
+  },
+  {
+    "Id": "e4f7g5h4-9f86-4e7f-bd6e-fb4c0a2d5e6f",
+    "Name": "Juguetes y Juegos"
+  },
+  {
+    "Id": "f5g8h6i5-a0g7-4f8e-cd7f-gc5d1b2e6f7g",
+    "Name": "Deportes y Aire Libre"
+  },
+  {
+    "Id": "g6h9i7j6-b1h8-4g9f-de8g-hd6e2c3f7g8h",
+    "Name": "Libros y Música"
+  },
+  {
+    "Id": "h7i0j8k7-c2i9-5h0g-ef9h-ie7f3d4g8h9i",
+    "Name": "Automóviles y Motocicletas"
+  }
+]

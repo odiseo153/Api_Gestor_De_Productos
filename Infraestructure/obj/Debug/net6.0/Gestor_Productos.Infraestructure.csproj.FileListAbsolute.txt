@@ -1,0 +1,17 @@
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\obj\Debug\net6.0\Gestor_Productos.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\obj\Debug\net6.0\Gestor_Productos.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\obj\Debug\net6.0\Gestor_Productos.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\obj\Debug\net6.0\Gestor_Productos.Infraestructure.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\obj\Debug\net6.0\Gestor_Productos.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\bin\Debug\net6.0\Gestor_Productos.Infraestructure.deps.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\bin\Debug\net6.0\Gestor_Productos.Infraestructure.runtimeconfig.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\bin\Debug\net6.0\Gestor_Productos.Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\bin\Debug\net6.0\Gestor_Productos.Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\bin\Debug\net6.0\Gestor_Productos.Domain.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\bin\Debug\net6.0\Gestor_Productos.Domain.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\obj\Debug\net6.0\Gestor_P.40AFEBF0.Up2Date
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\obj\Debug\net6.0\Gestor_Productos.Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\obj\Debug\net6.0\refint\Gestor_Productos.Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\obj\Debug\net6.0\Gestor_Productos.Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\obj\Debug\net6.0\Gestor_Productos.Infraestructure.genruntimeconfig.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Infraestructure\obj\Debug\net6.0\ref\Gestor_Productos.Infraestructure.dll

@@ -1,0 +1,12 @@
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Domain\bin\Debug\net6.0\Gestor_Productos.Domain.deps.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Domain\bin\Debug\net6.0\Gestor_Productos.Domain.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Domain\bin\Debug\net6.0\Gestor_Productos.Domain.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Domain\obj\Debug\net6.0\Gestor_Productos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Domain\obj\Debug\net6.0\Gestor_Productos.Domain.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Domain\obj\Debug\net6.0\Gestor_Productos.Domain.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Domain\obj\Debug\net6.0\Gestor_Productos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Domain\obj\Debug\net6.0\Gestor_Productos.Domain.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Domain\obj\Debug\net6.0\refint\Gestor_Productos.Domain.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Domain\obj\Debug\net6.0\Gestor_Productos.Domain.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Domain\obj\Debug\net6.0\ref\Gestor_Productos.Domain.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api Gestor De Productos\Domain\obj\Debug\net6.0\Gestor_Productos.Domain.csproj.AssemblyReference.cache

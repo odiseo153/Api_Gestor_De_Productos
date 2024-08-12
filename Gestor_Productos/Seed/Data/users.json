@@ -1,0 +1,72 @@
+[
+  {
+    "Id": "f4a1e5f3-71e6-4b4b-a5d3-1a7e16a1b96a",
+    "Name": "John Doe",
+    "Email": "john.doe@example.com",
+    "Password": "12345",
+    "Rol": "User"
+  },
+  {
+    "Id": "a1b2c3d4-e5f6-7g8h-9i10-j11k12l13m14",
+    "Name": "Jane Smith",
+    "Email": "jane.smith@example.com",
+    "Password": "12345",
+    "Rol": "Administrator"
+  },
+  {
+    "Id": "b2c3d4e5-f6g7-8h9i-10j1-k12l13m14n15",
+    "Name": "Alice Johnson",
+    "Email": "alice.johnson@example.com",
+    "Password": "12345",
+    "Rol": "User"
+  },
+  {
+    "Id": "c3d4e5f6-g7h8-9i10-j11k-12l13m14n15",
+    "Name": "Bob Brown",
+    "Email": "bob.brown@example.com",
+    "Password": "12345",
+    "Rol": "User"
+  },
+  {
+    "Id": "d4e5f6g7-h8i9-10j1-k12l-13m14n15o16",
+    "Name": "Carol White",
+    "Email": "carol.white@example.com",
+    "Password": "12345",
+    "Rol": "Administrator"
+  },
+  {
+    "Id": "e5f6g7h8-i9j0-11k1-l12m-13n14o15p16",
+    "Name": "David Black",
+    "Email": "david.black@example.com",
+    "Password": "12345",
+    "Rol": "User"
+  },
+  {
+    "Id": "f6g7h8i9-j0k1-12l1-m23n-14o15p16q17",
+    "Name": "Emma Green",
+    "Email": "emma.green@example.com",
+    "Password": "12345",
+    "Rol": "User"
+  },
+  {
+    "Id": "g7h8i9j0-k1l2-23m1-n14o-15p16q17r18",
+    "Name": "Frank Harris",
+    "Email": "frank.harris@example.com",
+    "Password": "12345",
+    "Rol": "Administrator"
+  },
+  {
+    "Id": "h8i9j0k1-l2m3-34n1-o15p-16q17r18s19",
+    "Name": "Grace Lewis",
+    "Email": "grace.lewis@example.com",
+    "Password": "12345",
+    "Rol": "User"
+  },
+  {
+    "Id": "i9j0k1l2-m3n4-45o1-p16q-17r18s19t20",
+    "Name": "Henry Walker",
+    "Email": "henry.walker@example.com",
+    "Password": "hashed_password_107",
+    "Rol": "User"
+  }
+]
