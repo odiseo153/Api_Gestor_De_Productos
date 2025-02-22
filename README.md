@@ -1,6 +1,3 @@
-Aquí tienes una versión mejorada del README:
-
-
 # API Gestora de Productos
 
 ## Descripción
